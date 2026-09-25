@@ -134,16 +134,5 @@ Auth state, the student profile, and all applications are stored in `localStorag
 
 ---
 
-## 6. Future Improvements (with a backend)
-
-- **Node.js + Express** REST API and **MongoDB** for real data storage.
-- **JWT authentication** with hashed passwords and refresh tokens.
-- **Admin dashboard**, **company login**, and a **placement officer dashboard**.
-- **Real resume uploads** (file storage / S3) instead of simulated file names.
-- **Email notifications** for shortlists, interviews and deadlines.
-- **Real-time application status** updates (WebSockets).
-- **Database-driven eligibility checking** and analytics/reporting.
-
----
 
 *Built as a learning-friendly, portfolio-ready React project. Data is mocked and lives in `src/data/mockData.js`.*
